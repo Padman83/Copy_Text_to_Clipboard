@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Copy_Text_to_Clipboard"
